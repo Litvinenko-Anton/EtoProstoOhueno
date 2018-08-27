@@ -3,4 +3,19 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--BASE COLORS-->
+    <color name="BLACK">#FF000000</color>
+    <color name="WHITE">#ffffffff</color>
+    <color name="TRANSPARENT">#00000000</color>
+
+    <color name="background_white">#fdfdfe</color> <!--OK-->
+    <color name="background_tool_bar">#ffffff</color> <!--OK-->
+    <color name="background_dark_transparent_5">#0e000000</color>
+    <color name="background_dark_transparent_15">#26000000</color>
+    <color name="background_dark_transparent_30">#4d000000</color>
+    <color name="background_dark_transparent_50">#7f000000</color>
+    <color name="background_dark_transparent_85">#dc000000</color>
+    <color name="background_dark_transparent_90">#f0000000</color>
+    <color name="background_menu_transparent_85">#dc222222</color>
 </resources>

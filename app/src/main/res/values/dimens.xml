@@ -1,0 +1,83 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Margin-->
+    <dimen name="activity_margin_small">5dp</dimen>
+    <dimen name="activity_margin">10dp</dimen>
+    <dimen name="activity_margin_medium">15dp</dimen>
+    <dimen name="activity_margin_large">20dp</dimen>
+    <dimen name="activity_margin_extra_large">30dp</dimen>
+    <dimen name="activity_margin_extra_extra_large">50dp</dimen>
+    <dimen name="activity_margin_extra_extra_extra_large">100dp</dimen>
+
+    <dimen name="activity_margin_text_end">40dp</dimen>
+
+    <!--Padding-->
+    <dimen name="activity_padding_small">5dp</dimen>
+    <dimen name="activity_padding">10dp</dimen>
+    <dimen name="activity_padding_medium">15dp</dimen>
+    <dimen name="activity_padding_large">20dp</dimen>
+    <dimen name="activity_padding_extra_large">30dp</dimen>
+    <dimen name="activity_padding_extra_extra_large">50dp</dimen>
+
+    <!--Recycler-->
+    <dimen name="recycler_item_size">45dp</dimen>
+    <dimen name="recycler_img_size">75dp</dimen>
+    <dimen name="recycler_img_height">70dp</dimen>
+    <dimen name="recycler_text_margin">10dp</dimen>
+    <dimen name="recycler_img_padding">15dp</dimen>
+
+    <!--TextSize-->
+    <dimen name="text_very_small_size">10sp</dimen>
+    <dimen name="text_small_size">12sp</dimen>
+    <dimen name="text_normal_size">16sp</dimen>
+    <dimen name="text_medium_size">18sp</dimen>
+    <dimen name="text_large_size">20sp</dimen>
+    <dimen name="text_extra_large_size">24sp</dimen>
+    <dimen name="text_extra_extra_large_size">36sp</dimen>
+
+    <dimen name="text_button_small_size">14sp</dimen>
+    <dimen name="text_button_size">18sp</dimen>
+    <dimen name="text_button_size_large">24sp</dimen>
+    <dimen name="text_button_size_extra_large">28sp</dimen>
+
+
+    <!--Button-->
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_agree_height">60dp</dimen>
+    <dimen name="button_about_height">50dp</dimen>
+    <dimen name="button_small_height">26dp</dimen>
+    <dimen name="button_transparent_height">30dp</dimen>
+    <dimen name="toolbar_image_button_size">48dp</dimen>
+    <dimen name="button_height_ellipse">56dp</dimen>
+    <dimen name="button_height_comments">30dp</dimen>
+    <dimen name="button_padding_small">10dp</dimen>
+    <dimen name="button_padding">30dp</dimen>
+    <dimen name="button_img_padding">5dp</dimen>
+    <dimen name="button_padding_comments">15dp</dimen>
+    <dimen name="button_radius">8dp</dimen>
+    <dimen name="button_stroke">1dp</dimen>
+    <dimen name="circle_button_margin">30dp</dimen>
+    <dimen name="circle_button_size">64dp</dimen>
+
+    <!--TextView-EditText-->
+    <dimen name="edit_text_height">40dp</dimen>
+    <dimen name="tutorial_text_height">100dp</dimen>
+
+    <!-- Recycler item -->
+    <dimen name="recycler_icon_size">30dp</dimen>
+
+    <!-- Audio control view -->
+    <dimen name="audio_control_size_w">300dp</dimen>
+    <dimen name="audio_control_size_h">100dp</dimen>
+
+    <!--Other-->
+    <dimen name="border_line_height">0.5dp</dimen>
+    <dimen name="talk_to_baby_view_height">95dp</dimen>
+    <dimen name="talk_to_baby_view_weight">150dp</dimen>
+    <dimen name="spinner">30dp</dimen>
+    <dimen name="battery_width_view">30dp</dimen>
+
+</resources>
