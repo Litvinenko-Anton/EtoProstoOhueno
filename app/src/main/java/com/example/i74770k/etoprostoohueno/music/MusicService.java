@@ -63,8 +63,8 @@ public class MusicService extends Service implements MediaPlayer.OnPreparedListe
 
     public void initLullabiesList() {
         songsList = new ArrayList<Song>() {{
-            add(new Song(0, "Eto Prosto Ohueno", "twinkle.mp3", true));
-            add(new Song(1, "Idi nahiy", "lullaby.mp3", true));
+            add(new Song(0, "Ahuenno", "ahuenno.mp3", true));
+            add(new Song(1, "Nahui", "nahui.mp3", true));
         }};
 //            songsList = GlobalData.getInstance().getAllLullabiesList();
     }
